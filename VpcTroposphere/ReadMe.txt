@@ -1,6 +1,6 @@
 VPC
 
-This Cloud formation Template spins 1 Vpc with 2 Private and 2 Public subnets.
+This Cloud formation Template creates 1 Vpc with 2 Private and 2 Public subnets.
 It also creates 1 Public and Private Route and also 1 Public and Private NetworkAcl.
 It also has one Router and Internet Gateway.
 
